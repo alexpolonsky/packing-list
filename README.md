@@ -18,7 +18,7 @@ For additional packing-speed, there's a section per bag
 
 ## The carry-on
 
-[ ] ניסיון לעברית
+- [ ] ניסיון לעברית
 
 - [ ] Additional battery for phone
 - [ ] Bank identifier
